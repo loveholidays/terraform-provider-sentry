@@ -1,5 +1,11 @@
 # Terraform Provider Sentry
 
+> [!IMPORTANT]
+> **Fork Notice:** This is a temporary fork of
+[jianyuan/terraform-provider-sentry](https://github.com/jianyuan/terraform-provider-sentry) that includes a fix for
+[terraform-provider-sentry issue #708](https://github.com/jianyuan/terraform-provider-sentry/issues/708). Consider using the upstream repository once the fix
+is merged.
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/jianyuan/terraform-provider-sentry)](https://goreportcard.com/report/github.com/jianyuan/terraform-provider-sentry)
 
 <a href="https://sentry.io/?utm_source=terraform&utm_medium=docs" target="_blank">
